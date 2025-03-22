@@ -1,5 +1,7 @@
 import { BlogPosts } from "app/components/posts";
 import Image from "next/image";
+import profileImage from "../public/image.jpg"
+
 
 export default function Page() {
   return (
